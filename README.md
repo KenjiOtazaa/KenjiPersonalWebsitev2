@@ -3,7 +3,7 @@
 <img src="images/readme/banner.png">
 
 ## 🚀 Live Demo
-- [Live Demo](https://kenjiotazaa.github.io/PersonalPortfolio.github.io/)
+- [Live Demo](https://kenjiotazaa.github.io/KenjiPersonalWebsitev2/)
 
 ## 👤 Author
 <p align="left">
